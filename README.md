@@ -14,7 +14,7 @@ Build an interactive dashboard for quick insights
 Interactive filters for districts and dates
 Geo map for district-wise weather comparisons
 Visual trends for:
-*🌡️ Temperature variation over time
+- 🌡️ Temperature variation over time
 💧 Humidity distribution
 ☔ Rainfall intensity
 🌀 Wind speed behavior
