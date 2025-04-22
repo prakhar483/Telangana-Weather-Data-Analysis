@@ -15,15 +15,14 @@ Interactive filters for districts and dates
 Geo map for district-wise weather comparisons
 Visual trends for:
 - 🌡️ Temperature variation over time
-💧 Humidity distribution
-☔ Rainfall intensity
-🌀 Wind speed behavior
+- 💧 Humidity distribution
+- ☔ Rainfall intensity
+- 🌀 Wind speed behavior
 
 Seasonal and regional analysis of weather conditions
 
 # 🧰 Tools & Technologies Used
 Power BI (dashboard creation & data visualization)
-
 Excel/CSV (data source and formatting)
 
 DAX (custom measures & logic)
