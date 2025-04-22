@@ -9,6 +9,9 @@ Understanding local weather behavior is crucial for planning in agriculture, inf
 - Study monthly/seasonal trends in temperature, rainfall, and humidity
 - Identify outliers and extreme conditions
 - Build an interactive dashboard for quick insights
+## 🖼️ Dashboard Preview
+- Here’s a preview of the Telangana Weather Dashboard:
+![Dashboard Screenshot]![image](https://github.com/user-attachments/assets/5952e63e-95f1-4911-8c6d-3c780afe3ee3)
 
 # 📊 Power BI Dashboard Highlights
 Interactive filters for districts and dates
