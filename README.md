@@ -5,10 +5,10 @@ This project presents an interactive Power BI dashboard that analyzes historical
 Understanding local weather behavior is crucial for planning in agriculture, infrastructure, and disaster management. This project uses weather data to visualize and explore how different atmospheric conditions vary across Telangana's regions and timeframes.
 
 # 📌 Key Objectives:
-Analyze district-wise weather patterns
-Study monthly/seasonal trends in temperature, rainfall, and humidity
-Identify outliers and extreme conditions
-Build an interactive dashboard for quick insights
+- Analyze district-wise weather patterns
+- Study monthly/seasonal trends in temperature, rainfall, and humidity
+- Identify outliers and extreme conditions
+- Build an interactive dashboard for quick insights
 
 # 📊 Power BI Dashboard Highlights
 Interactive filters for districts and dates
@@ -22,16 +22,12 @@ Visual trends for:
 Seasonal and regional analysis of weather conditions
 
 # 🧰 Tools & Technologies Used
-Power BI (dashboard creation & data visualization)
-Excel/CSV (data source and formatting)
-
-DAX (custom measures & logic)
-
-Power Query (data cleaning and transformation)
+- Power BI (dashboard creation & data visualization)
+- Excel/CSV (data source and formatting)
+- DAX (custom measures & logic)
+- Power Query (data cleaning and transformation)
 
 # ✅ Outcomes
-Identified seasonal temperature and rainfall trends
-
-Highlighted districts with extreme or unusual weather behavior
-
-Built a user-friendly dashboard that offers insights useful for students, researchers, and policy planners
+- Identified seasonal temperature and rainfall trends
+- Highlighted districts with extreme or unusual weather behavior
+- Built a user-friendly dashboard that offers insights useful for students, researchers, and policy planners
