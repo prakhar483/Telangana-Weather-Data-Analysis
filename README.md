@@ -19,8 +19,6 @@ Visual trends for:
 - ☔ Rainfall intensity
 - 🌀 Wind speed behavior
 
-Seasonal and regional analysis of weather conditions
-
 # 🧰 Tools & Technologies Used
 - Power BI (dashboard creation & data visualization)
 - Excel/CSV (data source and formatting)
